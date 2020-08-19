@@ -1,4 +1,4 @@
-# K-means-Agglomerative-and-DBscan-Algorithm-on-donors-choose-dataset
+# K-means-Hierarchical-and-DBscan-Algorithm-on-donors-choose-dataset
 
 Data can be downloaded from here(kaggle) https://www.kaggle.com/c/donorschoose-application-screening/data
 
